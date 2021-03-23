@@ -76,11 +76,11 @@ a.bruh:hover {
       margin-left:27px
     }
   .navheader {
-    font-size:10px;
+    font-size:50px;
   }
   
   .navmedia {
-    font-size:10px;
+    font-size:25px;
   }
   
   .maincap1 {
@@ -112,7 +112,7 @@ a.bruh:hover {
   }
   
   .logo {
-    width:150px;
+    width:250px;
   }
   
   .covidwarning {
@@ -142,6 +142,8 @@ a.bruh:hover {
   .faqheader {
     font-size: 40px;
   }
+
+
   }
   
   
