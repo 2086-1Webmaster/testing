@@ -13,8 +13,9 @@ a.bruh:hover {
     font-size: 40px;
     margin-bottom:-150px;
   }
+  
   .navheader {
-    font-size:60px;
+    font-size:70px;
   }
   .navmedia {
     font-size:50px;
@@ -228,3 +229,4 @@ div.testdiv {
 .nav-link {
   font-family: Neoteric;
 }
+
