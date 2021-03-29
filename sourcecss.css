@@ -63,6 +63,10 @@
 .nav2 {
     transition: all 0.5s;
 }
+
+.sourcing {
+  font-size: 50px;
+}
   }
   
   
@@ -117,14 +121,18 @@
   }
   
   .bruh {
-    font-size:15px
+    font-size:15px;
   }
   .nav2:hover {
-    font-size: ""
+    font-size: "";
 }
 
 .nav2 {
-    transition: ""
+    transition: "";
+}
+
+.sourcing {
+  font-size: 17px;
 }
   }
   
